@@ -12,7 +12,7 @@ My goal is to help with `1.` by creating an app to automate the process for GitH
 
 In regard of `2.`, I want to mention two things.
 
-1. Git was created as an alternative to the propriotary BitKeeper in 2005. BitKeeper used the master/slave terminology. And [Linus used the term in early communications](https://marc.info/?l=git&m=111968031816936&w=2) on the Git mailing list. So git's "master" branch origin is in fact coming from master/slave.
+1. Git was created as an alternative to the proprietary BitKeeper in 2005. BitKeeper used the master/slave terminology. And [Linus used the term in early communications](https://marc.info/?l=git&m=111968031816936&w=2) on the Git mailing list. So git's "master" branch origin is in fact coming from master/slave.
 2. If you think the change is unnecessary, then it's not about you.
 
 In regard of `3.`: Tech is not neutral, nor is it apolitical. I recommend listening to [#causeascene podcast](https://hashtagcauseascene.com/podcast/) which discusses the topic at length.
